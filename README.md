@@ -1,0 +1,1 @@
+Project ini membangun jaringan lokal (LAN) sederhana sebagai fondasi konsep networking dasar: pengalamatan IP, koneksi router-switch-PC, dan pengujian konektivitas menggunakan ping. Project ini menunjukkan pemahaman dasar topologi jaringan dan konfigurasi perangkat Cisco melalui CLI.
